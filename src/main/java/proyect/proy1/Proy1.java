@@ -11,6 +11,6 @@ package proyect.proy1;
 public class Proy1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello gei!");
+        System.out.println("Hello hey!");
     }
 }
